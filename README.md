@@ -1,7 +1,7 @@
 # 项目介绍
 本项目基于图形渲染API Vulkan,涉及模型加载到显卡并实时渲染的demo。
 ## 效果展示
-![image]()
+![image](demo.png)
 
 # 环境依赖
 - 设备支持 Vulkan 驱动
